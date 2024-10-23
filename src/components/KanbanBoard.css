@@ -1,0 +1,14 @@
+/* src/components/KanbanBoard.css */
+.kanban-board {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .kanban-column {
+    flex: 1;
+    padding: 10px;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+  }
+  

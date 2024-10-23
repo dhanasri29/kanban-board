@@ -1,0 +1,22 @@
+.group-options {
+    position: relative;
+  }
+  
+  .dropdown-content {
+    display: block;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    z-index: 1;
+    padding: 10px;
+  }
+  
+  .dropdown-header {
+    cursor: pointer;
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
